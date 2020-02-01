@@ -1,23 +1,26 @@
 div{
-	background-color: #ffffff;
+	background-color: #8B4513;
 	border: 2pix solid;
 	height: 150px;
 	width: 200px;
 }
-.b{background-color: #000080;
+.b{background-color: #008000;
 	height: 100px;
 	width: 40%;
-	border: 5px dotted #C0C0C0;
+	border: 5px dotted #9400D3;
+	position: relative;
 }
 .b1{background-color: #FFDAB9;
 	height: 100px;
 	width: 50%;
 	border: 7px dotted #00FF00;
+	position: relative;
 }
-.b1{background-color: #F0FFF0;
+.b1{background-color: #90EE90;
 	height: 100px;
 	width: 100%;
-	border: 5px dotted #F8F8FF;
+	border: 5px dotted #FFC0CB;
+	position: relative;
 }
 
 .P{
@@ -25,6 +28,5 @@ div{
 }
 
 li{
-	display: inline-block;
-	border: 5px solid #00FF00;
+	padding: 100px 10px;
 }
