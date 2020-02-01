@@ -1,0 +1,30 @@
+div{
+	background-color: #ffffff;
+	border: 2pix solid;
+	height: 150px;
+	width: 200px;
+}
+.b{background-color: #000080;
+	height: 100px;
+	width: 40%;
+	border: 5px dotted #C0C0C0;
+}
+.b1{background-color: #FFDAB9;
+	height: 100px;
+	width: 50%;
+	border: 7px dotted #00FF00;
+}
+.b1{background-color: #F0FFF0;
+	height: 100px;
+	width: 100%;
+	border: 5px dotted #F8F8FF;
+}
+
+.P{
+	height: 50%;
+}
+
+li{
+	display: inline-block;
+	border: 5px solid #00FF00;
+}
