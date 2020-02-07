@@ -1,0 +1,6 @@
+.ruorty{
+	width: 1080px;
+	margin: 0 auto;
+	height: 900px;
+	background-color: #c4c4c4c4;
+}
