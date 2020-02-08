@@ -1,32 +1,33 @@
-div {
-	border: 2px solid green;
-	height: 150px
-	background-color: #39CC00;
-	}
-	.a1 {
-		border: 2px solid blue;
-		height: 100px
-		float: left;
-		background-color: #1EA0E0;
-		}
-	.a2 {
-		border: 2px solid white;
-		height: 100px
-		float: right;
-		background-color: #1EA0E0;
-		position: relative;
-		width: 215;
-		}
-	.a3 {
-		border: 2px solid orange;
-		height: 150px
-		position: relative;
-		}
-	.P {
-		height: 50%;
-	   }
-	li {
-		display: inline-block;
-		border: 10px solid #6FA8;
-		padding: 50px 50px;
-		}
+.father{
+ 	width: 1080px;
+ 	margin: 0 auto;
+	height: 9000px;
+	background-color:#808080;
+}
+
+ .fix{
+	position: fixed;
+ 	color: #964B00;
+ 	background-color: #964B00;
+ 	    width: 300px;
+    height: 600px;
+}
+
+.trol{
+	width: 100px;
+ 	height: auto;
+ 	text-align: center;
+ 	margin: 0 auto;
+    display: inherit;
+}
+
+.a1{
+ 	border: dotted ;
+}
+
+li{
+	padding: 5px 0;
+	margin-bottom: 10px;
+	background-color: #964B00;
+	border-top: 2px dotted #964B00;
+}
